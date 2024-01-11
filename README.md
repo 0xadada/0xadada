@@ -3,10 +3,9 @@
 Recently published a new edition of Guy Debord's 1967 book, _[The Society of the
 Spectacle](https://unredacted-word.pub/spectacle/)_, out now on [█ Unredacted Word](https://unredacted-word.pub).
 
-I'm a full stack frontend focused Software Engineer. I enjoy:
+I'm a full stack frontend-focused Software Engineer. I enjoy:
 
 * Ember.js, Next.js, React, TailwindCSS
-* Writing CSS
 * Building  great products
 * Design and implement systems given loose business requirements and goals
 * Implementing code that is delightful, performant, maintainable, pragmatic and cost effective
