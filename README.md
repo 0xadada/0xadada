@@ -5,9 +5,9 @@ Spectacle](https://unredacted-word.pub/spectacle/)_, out now on [█ Unredacted 
 
 I'm a full stack frontend-focused Software Engineer. I enjoy:
 
-* Ember.js, Next.js, React, TailwindCSS
-* Building  great products
-* Design and implement systems given loose business requirements and goals
+* React, Next.js, Ember.js, TailwindCSS
+* Building great products
+* Design and implement systems given loose business requirements & goals
 * Implementing code that is delightful, performant, maintainable, pragmatic and cost effective
 * Making the web more accessible for everyone
 * Defining technical vision & strategy, leading execution
