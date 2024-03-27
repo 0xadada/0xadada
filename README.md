@@ -1,8 +1,5 @@
  # 0xADADA
 
-Recently published a new edition of Guy Debord's 1967 book, _[The Society of the
-Spectacle](https://unredacted-word.pub/spectacle/)_, out now on [█ Unredacted Word](https://unredacted-word.pub).
-
 I'm a full stack frontend-focused Software Engineer. I enjoy:
 
 * React, Next.js, Ember.js, TailwindCSS
@@ -12,6 +9,13 @@ I'm a full stack frontend-focused Software Engineer. I enjoy:
 * Making the web more accessible for everyone
 * Defining technical vision & strategy, leading execution
 * Helping, mentoring & coaching others
+
+## Now
+
+Recently published a new edition of Guy Debord's 1967 book, _[The Society of the
+Spectacle](https://unredacted-word.pub/spectacle/)_, out now on [█ Unredacted Word](https://unredacted-word.pub).
+
+To see what I'm up to now, checkout my [0xadada.pub/now](https://0xadada.pub/now/) page.
 
 ## Stats
 
