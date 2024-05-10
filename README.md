@@ -1,6 +1,6 @@
  # 0xADADA
 
-I'm a full stack frontend-focused Software Engineer.
+I work on full stack, frontend-focused projects as a lead software engineer.
 
 * Ember.js, React, TailwindCSS
 * Building great products
