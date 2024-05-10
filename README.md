@@ -1,8 +1,8 @@
  # 0xADADA
 
-I'm a full stack frontend-focused Software Engineer. I enjoy:
+I'm a full stack frontend-focused Software Engineer.
 
-* React, Next.js, Ember.js, TailwindCSS
+* Ember.js, React, TailwindCSS
 * Building great products
 * Design and implement systems given loose business requirements & goals
 * Implementing code that is delightful, performant, maintainable, pragmatic and cost effective
@@ -12,8 +12,11 @@ I'm a full stack frontend-focused Software Engineer. I enjoy:
 
 ## Now
 
-Recently published a new edition of Guy Debord's 1967 book, _[The Society of the
-Spectacle](https://unredacted-word.pub/spectacle/)_, out now on [█ Unredacted Word](https://unredacted-word.pub).
+Recently published an essay on leisure, idleness, Spectacle, lived time, and the attention economy:
+[The Disappearance of Lived Time](https://0xadada.pub/2024/05/01/the-disappearance-of-lived-time/).
+
+Published a new edition of Guy Debord's 1967 book, _[The Society of the
+Spectacle](https://unredacted-word.pub/spectacle/)_, out on [█ Unredacted Word](https://unredacted-word.pub).
 
 To see what I'm up to now, checkout my [0xadada.pub/now](https://0xadada.pub/now/) page.
 
