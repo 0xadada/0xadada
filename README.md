@@ -2,13 +2,15 @@
 
 <details>
   <summary>I work on full stack, frontend-focused projects as a lead software engineer.</summary>
-  * Ember.js, React, TailwindCSS
-  * Building great products
-  * Design and implement systems given loose business requirements & goals
-  * Implementing code that is delightful, performant, maintainable, pragmatic and cost effective
-  * Making the web more accessible for everyone
-  * Defining technical vision & strategy, leading execution
-  * Helping, mentoring & coaching others
+ 
+* Ember.js, React, TailwindCSS
+* Building great products
+* Design and implement systems given loose business requirements & goals
+* Implementing code that is delightful, performant, maintainable, pragmatic and cost effective
+* Making the web more accessible for everyone
+* Defining technical vision & strategy, leading execution
+* Helping, mentoring & coaching others
+
 </details>
 
 ## Now
