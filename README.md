@@ -1,19 +1,23 @@
  # 0xADADA
 
-I work on full stack, frontend-focused projects as a lead software engineer.
-
-* Ember.js, React, TailwindCSS
-* Building great products
-* Design and implement systems given loose business requirements & goals
-* Implementing code that is delightful, performant, maintainable, pragmatic and cost effective
-* Making the web more accessible for everyone
-* Defining technical vision & strategy, leading execution
-* Helping, mentoring & coaching others
+<details>
+  <summary>I work on full stack, frontend-focused projects as a lead software engineer.</summary>
+  * Ember.js, React, TailwindCSS
+  * Building great products
+  * Design and implement systems given loose business requirements & goals
+  * Implementing code that is delightful, performant, maintainable, pragmatic and cost effective
+  * Making the web more accessible for everyone
+  * Defining technical vision & strategy, leading execution
+  * Helping, mentoring & coaching others
+</details>
 
 ## Now
 
-Recently published an essay on leisure, idleness, Spectacle, lived time, and the attention economy:
-[The Disappearance of Lived Time](https://0xadada.pub/2024/05/01/the-disappearance-of-lived-time/).
+Recently published a [documentary film](https://www.youtube.com/watch?v=9vtDN0Gdk7w) based on my essay [The Disappearance of Lived Time](https://0xadada.pub/2024/05/01/the-disappearance-of-lived-time/).
+
+> Drawing from Debord and Heidegger, this film examines our subjective experience of time throughout history. It reveals how the relentless pursuit of productivity has shaped society and our perceptions of time, creating a perpetual present driven by an autonomous economy and accelerated by surveillance capitalism. The film explores the societal obsession with busyness and advocates for reclaiming time and leisure to foster true human flourishing.
+
+[![The Disappearance of Lived Time](https://img.youtube.com/vi/9vtDN0Gdk7w/0.jpg)](https://www.youtube.com/watch?v=9vtDN0Gdk7w)
 
 Published a new edition of Guy Debord's 1967 book, _[The Society of the
 Spectacle](https://unredacted-word.pub/spectacle/)_, out on [█ Unredacted Word](https://unredacted-word.pub).
