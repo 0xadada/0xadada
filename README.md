@@ -1,9 +1,8 @@
  # 0xADADA
 
 <details>
-  <summary>I work on full stack, frontend-focused projects as a lead software engineer.</summary>
+  <summary>I work as technical lead software engineer on full stack, frontend-focused projects.</summary>
  
-* Ember.js, React, TailwindCSS
 * Building great products
 * Design and implement systems given loose business requirements & goals
 * Implementing code that is delightful, performant, maintainable, pragmatic and cost effective
